@@ -9,7 +9,7 @@
 * Amazon DynamoDB について、下記の操作をハンズオンで体験します。
     - AWS SDK for Python (boto3) を使用した Python のコードから Amazon DynamoDB のテーブルを操作する
 
-図
+![](images/sdk.png)
 
 ---
 
@@ -47,7 +47,7 @@
 1. 下図のようなテーブルを作成します。
 
 
-図
+![](images/table.png)
 
 
 1. **create_table.py** を開きます。
@@ -139,7 +139,7 @@
 1. 下図のようなグローバルセカンダリインデックスを作成します。
 
 
-図
+![](images/gsi.png)
 
 
 1. **add_gsi.py** を開きます。
